@@ -1,0 +1,20 @@
+@media only screen and (max-width: 1024px) {
+    #loader {
+        background-size: 25%;
+    }
+
+    .custom-margin {
+        width: 75% !important;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .banner {
+        margin-top: 10%;
+    }
+
+    .navbar img {
+        width: 45%;
+    }
+
+}
