@@ -10,7 +10,7 @@ window.addEventListener('scroll', (e) => {
     if (window.pageYOffset > 0) {
         nav.classList.add("myshadow");
     } else {
-        nav.classList.remove("myshadow").fadeOut("1000");
+        nav.classList.remove("myshadow");
     }
 });
 
